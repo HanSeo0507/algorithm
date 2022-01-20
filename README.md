@@ -12,3 +12,14 @@
 - `fail` : 풀이에 실패한 문제
 - `improve` : 새로운 풀이 추가
 - `docs` : README 등 문서 수정
+
+## 사이트
+
+[프로그래머스](https://programmers.co.kr/)
+
+## 문제 풀이
+
+- 프로그래머스
+  - 2019 카카오 블라인드 채용
+    - Lv1
+      - [실패율](https://github.com/hanseo0507/algorithm/blob/main/programmers/Lv1/2019_카카오_블라인드_채용/실패율/solution.js)
