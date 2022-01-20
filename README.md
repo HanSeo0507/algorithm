@@ -23,3 +23,6 @@
   - 2019 카카오 블라인드 채용
     - Lv1
       - [실패율](https://github.com/hanseo0507/algorithm/blob/main/programmers/Lv1/2019_카카오_블라인드_채용/실패율/solution.js)
+  - 2021 카카오 채용연계형 인턴십
+    - Lv1
+      - [숫자 문자열과 영단어](https://github.com/hanseo0507/algorithm/blob/main/programmers/Lv1/2021_카카오_채용연계형_인턴십/숫자_문자열과_영단어/solution.js)
