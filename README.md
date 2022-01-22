@@ -29,3 +29,4 @@
   - 2022 카카오 블라인드 채용
     - Lv1
       - [신고 결과 받기](https://github.com/hanseo0507/algorithm/blob/main/programmers/Lv1/2022_카카오_블라인드_채용/신고_결과_받기/solution.js)
+  - [부족한 금액 계산하기]("https://github.com/hanseo0507/algorithm/blob/main/programmers/Lv1/부족한_금액_계산하기/solution.js")
