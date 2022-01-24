@@ -22,6 +22,8 @@
 - 프로그래머스
   - Lv1
     - [부족한 금액 계산하기]("https://github.com/hanseo0507/algorithm/blob/main/programmers/Lv1/부족한_금액_계산하기/solution.js")
+    - 2019 카카오 개발자 겨울 인턴십
+      - [크레인 인형뽑기 게임](https://github.com/hanseo0507/algorithm/blob/main/programmers/Lv1/2019_카카오_개발자_겨울_인턴십/크레인_인형뽑기_게임/solution.js)
     - 2019 카카오 블라인드 채용
       - [실패율](https://github.com/hanseo0507/algorithm/blob/main/programmers/Lv1/2019_카카오_블라인드_채용/실패율/solution.js)
     - 2021 카카오 채용연계형 인턴십
